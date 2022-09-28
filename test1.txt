@@ -1,1 +1,2 @@
-First
+editing test nr 1, that was suppose to be First inicialy
+this is unsing the add command instead of deleting the whole fking file
